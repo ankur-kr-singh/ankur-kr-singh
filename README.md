@@ -1,4 +1,7 @@
 ### Hi there 👋
+🔭 I’m currently working in Joveo, India as software developer in backend development.
+
+
 
 <!--
 **ankur-kr-singh/ankur-kr-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
