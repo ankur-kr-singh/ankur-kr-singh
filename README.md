@@ -27,8 +27,7 @@
 
 <!--Intro start-->
 - 🔭 I'm currently backend software developer in Joveo where I am building highly scalable applications.
-- 🌱 I have been working on **AWS, Java, Python, Scala, Snowflake, PostgreSQL, MongoDB, Apache Spark**.
-
+  
 - 📫 Feel free to reach me out **rajankur1601@gmail.com**
 
 
