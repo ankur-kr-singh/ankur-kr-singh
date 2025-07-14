@@ -12,7 +12,7 @@
 
 
 <!--Intro start-->
-- 🔭 I'm currently backend software developer in Joveo where I am building highly scalable applications.
+- 🔭 I'm currently working at JP Morgan as an SDE-II. From 2022 to 2024, I worked at the startup Joveo, where I contributed to building the backend of a scalable AI-powered recruitment marketing platform. This GitHub profile also includes my office work contributions made during my tenure at Joveo.
   
 - 📫 Feel free to reach me out **rajankur1601@gmail.com**
 
